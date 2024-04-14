@@ -25,7 +25,7 @@ The dataset used in this project is sourced from [heart.csv](heart.csv). It cont
 
 ## Files Included
 - **heart.csv**: The dataset containing medical attributes and labels.
-- **heart_disease_prediction.py**: The Python script containing the code for data preprocessing, model training, and prediction.
+- **HeartDiseasePrediction.ipynb and SVMClassifier.ipynb**: The Python script containing the code for data preprocessing, model training, and prediction.
 - **README.md**: The documentation file you're currently reading.
 
 ## Usage
