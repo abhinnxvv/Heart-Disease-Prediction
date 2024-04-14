@@ -1,7 +1,3 @@
-Certainly! Below is a README.md file for the project:
-
----
-
 # Heart Disease Prediction Project
 
 ## Overview
@@ -37,7 +33,3 @@ The dataset used in this project is sourced from [heart.csv](heart.csv). It cont
 
 ## Acknowledgments
 - The dataset used in this project is sourced from the UCI Machine Learning Repository.
-
----
-
-Feel free to modify and expand upon this README.md file as needed for your project documentation.
